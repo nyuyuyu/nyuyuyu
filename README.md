@@ -3,5 +3,5 @@
 [![nyuyuyu](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnyuyuyu)](https://atcoder.jp/users/nyuyuyu)
 
 <p align="center">
-  <img src="./avatar_animation.gif" width="480" height="375" alt="nyuzilla" title="Seven Days of Fire" />
+  <img src="./avatar_animation.gif" width="480" alt="nyuzilla" title="Seven Days of Fire" />
 </p>
